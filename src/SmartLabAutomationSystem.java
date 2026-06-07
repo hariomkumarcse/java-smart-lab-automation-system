@@ -252,4 +252,3 @@ class SmartLabAutomationSystem
 		System.out.println(light1);
 	}
 }
-// add one more interface smartDevice
